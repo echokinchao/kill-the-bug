@@ -1,0 +1,5 @@
+{
+  "name": "MacOS Bug Hunter",
+  "description": "A macOS-styled desktop game where you click to eliminate 3D software bugs and viruses across 3 levels.",
+  "requestFramePermissions": []
+}
